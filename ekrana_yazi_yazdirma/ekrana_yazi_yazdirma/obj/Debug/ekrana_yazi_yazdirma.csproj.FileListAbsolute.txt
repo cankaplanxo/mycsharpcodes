@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\bin\Debug\ekrana_yazi_yazdirma.exe.config
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\bin\Debug\ekrana_yazi_yazdirma.exe
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\bin\Debug\ekrana_yazi_yazdirma.pdb
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\obj\Debug\ekrana_yazi_yazdirma.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\obj\Debug\ekrana_yazi_yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\obj\Debug\ekrana_yazi_yazdirma.exe
+C:\Users\asus\Desktop\C#\ekrana_yazi_yazdirma\ekrana_yazi_yazdirma\obj\Debug\ekrana_yazi_yazdirma.pdb
