@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\bin\Debug\4_islem_hesap_makinesi.exe.config
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\bin\Debug\4_islem_hesap_makinesi.exe
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\bin\Debug\4_islem_hesap_makinesi.pdb
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\obj\Debug\4_islem_hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\obj\Debug\4_islem_hesap_makinesi.exe
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\obj\Debug\4_islem_hesap_makinesi.pdb
+C:\Users\asus\Desktop\C#\4_islem_hesap_makinesi\4_islem_hesap_makinesi\obj\Debug\4_islem_hesap_makinesi.csprojAssemblyReference.cache
