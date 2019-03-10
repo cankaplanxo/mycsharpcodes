@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\bin\Debug\fahrenheit_santigrat_dönüstürme.exe.config
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\bin\Debug\fahrenheit_santigrat_dönüstürme.exe
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\bin\Debug\fahrenheit_santigrat_dönüstürme.pdb
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\obj\Debug\fahrenheit_santigrat_dönüstürme.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\obj\Debug\fahrenheit_santigrat_dönüstürme.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\obj\Debug\fahrenheit_santigrat_dönüstürme.exe
+C:\Users\asus\Desktop\C#\fahrenheit_santigrat_dönüstürme\fahrenheit_santigrat_dönüstürme\obj\Debug\fahrenheit_santigrat_dönüstürme.pdb
