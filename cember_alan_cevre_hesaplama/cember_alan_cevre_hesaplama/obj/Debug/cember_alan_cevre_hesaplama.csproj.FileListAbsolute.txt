@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\bin\Debug\cember_alan_cevre_hesaplama.exe.config
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\bin\Debug\cember_alan_cevre_hesaplama.exe
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\bin\Debug\cember_alan_cevre_hesaplama.pdb
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\obj\Debug\cember_alan_cevre_hesaplama.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\obj\Debug\cember_alan_cevre_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\obj\Debug\cember_alan_cevre_hesaplama.exe
+C:\Users\asus\Desktop\C#\cember_alan_cevre_hesaplama\cember_alan_cevre_hesaplama\obj\Debug\cember_alan_cevre_hesaplama.pdb
