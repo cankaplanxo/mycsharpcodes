@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\obj\Debug\final_notu_gecti_kaldi.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\obj\Debug\final_notu_gecti_kaldi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\bin\Debug\final_notu_gecti_kaldi.exe.config
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\bin\Debug\final_notu_gecti_kaldi.exe
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\bin\Debug\final_notu_gecti_kaldi.pdb
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\obj\Debug\final_notu_gecti_kaldi.exe
+C:\Users\asus\Desktop\C#\final_notu_gecti_kaldi\final_notu_gecti_kaldi\obj\Debug\final_notu_gecti_kaldi.pdb
